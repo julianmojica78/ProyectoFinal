@@ -1,0 +1,4 @@
+com\mycompany\service\UsuarioService.class
+com\mycompany\service\Configuration.class
+com\mycompany\service\LoginService.class
+com\mycompany\service\Interceptor.class
